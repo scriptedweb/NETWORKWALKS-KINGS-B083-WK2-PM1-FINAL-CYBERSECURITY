@@ -1,8 +1,8 @@
-# 🔍 Footprinting, OSINT & Network Scanning — Cybersecurity Internship (Week 2)
+## 🔍 Footprinting, OSINT & Network Scanning — Cybersecurity Internship (Week 2)
 
 **Author:** Kings Ojore Ojorumi
 **Program:** Cybersecurity Internship, Networkwalks (B083-Networkwalks)
-**Date:** 14 – 17 September 2026
+**Date:** 17 September 2026
 **Modules:** W2-PM1 → W2-PM5
 
 ---
